@@ -11,5 +11,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Project/Scenes/Briefing.unity
     guid: ea1ad14931914f7facdfdde1095a3efb
+  - enabled: 1
+    path: Assets/_Project/Scenes/Gameplay.unity
+    guid: 001ff3c82c7743d3a3ff274a21f1bc48
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
