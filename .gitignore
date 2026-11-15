@@ -1,0 +1,31 @@
+# Unity generated files and folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Memory captures and profiler output
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# IDE and editor state
+.vs/
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Crash reports
+sysinfo.txt
+
+# Builds and packaged outputs
+*.apk
+*.aab
+*.unitypackage
